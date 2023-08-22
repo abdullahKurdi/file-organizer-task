@@ -1,0 +1,17 @@
+{
+    "name": "tamatem/file-organizer",
+    "description": "Technical Assignment",
+    "authors": [
+        {
+            "name": "Abdullah Al-Kurdi"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app",
+            "Commands\\": "commands",
+            "Tamatem\\":"src"
+            
+        }
+    }
+}
